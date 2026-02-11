@@ -1,3 +1,4 @@
+//Create a Person class (name, age). Extend it with a Student class (studentId). Use the super keyword in the Student constructor to initialize the parent fields.
 
 class Person{
     String name;
@@ -28,5 +29,6 @@ public class InheritanceQ2{
         s.display();
     }
 }
+
 
 
