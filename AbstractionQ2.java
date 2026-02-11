@@ -1,3 +1,4 @@
+//Define interfaces Flyable (fly()) and Swimmable (swim()). Create a Duck class that implements both interfaces.
 interface Flyable {
     void fly();
 }
@@ -24,4 +25,5 @@ public class AbstractionQ2 {
         d.swim();
     }
 }
+
 
