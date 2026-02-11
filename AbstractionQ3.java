@@ -1,3 +1,5 @@
+//Create an abstract Game class with a play() template method that calls abstract steps initialize(), start(), and end(). Implement these steps in a Chess subclass.
+
 abstract class Game {
     void play() {
         initialize();
@@ -32,6 +34,7 @@ public class AbstractionQ3 {
         g.play();
     }
 }
+
 
 
 
