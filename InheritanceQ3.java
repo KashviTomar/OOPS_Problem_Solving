@@ -1,3 +1,5 @@
+//Create a Rectangle class with a getArea() method. Extend it with a Box class that adds height. Override getArea() in Box to calculate surface area instead of 2D area.
+
 class Rectangle {
     int length, width;
 
@@ -31,3 +33,4 @@ public class InheritanceQ3 {
         System.out.println(b.getArea());
     }
 }
+
