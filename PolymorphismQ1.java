@@ -1,3 +1,4 @@
+//Create an Animal class with a method sound(). Override this in Dog ("Bark") and Cat ("Meow"). Instantiate both as Animal types and call sound().
 class Animal {
     void sound() {
         System.out.println("Animal makes sound");
@@ -27,4 +28,5 @@ public class PolymorphismQ1 {
         a1.sound();
         a2.sound();
     }
+
 }
