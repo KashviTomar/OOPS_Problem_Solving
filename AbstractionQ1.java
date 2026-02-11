@@ -1,3 +1,5 @@
+//Create an abstract class Appliance with a concrete method plugIn() and an abstract method work(). Implement work() in a Microwave subclass.
+
 abstract class Appliance {
 
     void plugIn() {
@@ -19,3 +21,4 @@ public class AbstractionQ1 {
     }
   
 }
+
